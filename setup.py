@@ -8,9 +8,7 @@ setup(
     version='1.2.8',
     description='FlagEmbedding',
     long_description=readme,
-    long_description_content_type="text/markdown",
-    author_email='2906698981@qq.com',
-    url='https://github.com/FlagOpen/FlagEmbedding',
+    url='https://github.com/ngOchOc2k2/FlagEmbedding',
     packages=find_packages(),
     install_requires=[
         'torch>=1.6.0',
